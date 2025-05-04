@@ -5,11 +5,11 @@ It's using SFML (C++)
 
 Developers
 
-Hedi BEN HAFSA
-Léo-Paul VRAY
-Tristan SIMMONET
-Dorian PICARD
-Swann CARLE
+-Hedi BEN HAFSA
+-Léo-Paul VRAY
+-Tristan SIMMONET
+-Dorian PICARD
+-Swann CARLE
 
 Graphists :
 
