@@ -13,7 +13,7 @@ Developers
 
 Graphists :
 
-Tristan TASSET
-Steven BACOUEL
-Alan BOEKWA
-Arno BARBE
+-Tristan TASSET
+-Steven BACOUEL
+-Alan BOEKWA
+-Arno BARBE
