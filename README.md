@@ -63,8 +63,8 @@ The project strengthened my experience with:
 ## More
 
 - [View the project on Créajeux](https://www.creajeux.fr/project/vorace)
-- [View the full portfolio case study](https://leopaulvray.lovable.app/projects/vorace)
-- [Explore my other projects](https://leopaulvray.lovable.app)
+- [View the full portfolio case study](https://leopaulvray.com/projects/vorace)
+- [Explore my other projects](https://leopaulvray.com)
 
 ## Author
 
