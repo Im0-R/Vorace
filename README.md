@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Language-C%2B%2B-00599C?logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Language-C-00599C?logo=c&logoColor=white" alt="C">
   <img src="https://img.shields.io/badge/Framework-SFML-8CC445" alt="SFML">
   <img src="https://img.shields.io/badge/Genre-Roguelite-ad7fd7" alt="Roguelite">
   <img src="https://img.shields.io/badge/Status-Released-2ea44f" alt="Released">
@@ -53,7 +53,7 @@ Vorace was an important introduction to lower-level game programming. Without a 
 
 The project strengthened my experience with:
 
-- C++ gameplay programming
+- C gameplay programming
 - SFML rendering and input
 - Procedural tile-based generation
 - Spritesheet animation
